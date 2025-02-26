@@ -12,7 +12,7 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #740709;
+    border: 6px solid #c0eeff;
     margin-bottom: 10px;
 }
 
@@ -58,12 +58,12 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ0MW45NTdld2owNTc1b21tcGFsZ3Z3aThveHlxbDFmeXo4dHhoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI4sFlp73fvEYgw/200.webp");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYTSCDmwwMktnmVsjVZW9QDvmaXkF13xMMmQ&s");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("https://c.tenor.com/f0bAhxAEdaAAAAAd/tenor.gif");
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ0MW45NTdld2owNTc1b21tcGFsZ3Z3aThveHlxbDFmeXo4dHhoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FxJBpNTBgWdJCXKD4/giphy.webp");
 }
 #gift-img-hot:hover {
     background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl0ZGN5aHJvNmEzcjVmZjVqZWtqdDRmMDB6ZHUwZXpzMnVtY3AyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Im6d35ebkCIiGzonjI/200.webp");
